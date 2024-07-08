@@ -1,3 +1,8 @@
 [submodule "tes-filho1"]
 	path = tes-filho1
 	url = https://github.com/Lucas-Barbosa-S/tes-filho1.git
+
+[submodule "tes-filho2"]
+	parth = tes-filho2
+	url = https://github.com/Lucas-Barbosa-S/tes-filho2.git
+	
